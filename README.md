@@ -14,7 +14,7 @@ This project is composed with different pieces:
 Require Node.js, npm, the ganache local blockchain.
 
 ```sh
-git clone https://github.com/juliencrn/spacedicks-website
+git clone https://github.com/Julien712-dev/typescript-starter.git
 cd spacedicks-website
 ```
 
